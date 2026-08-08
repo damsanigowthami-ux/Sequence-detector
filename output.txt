@@ -1,0 +1,8 @@
+Time=0   din=0 detected=0
+Time=10  din=1 detected=0
+Time=20  din=0 detected=0
+Time=30  din=1 detected=0
+Time=40  din=1 detected=1
+Time=50  din=0 detected=0
+Time=60  din=1 detected=0
+Time=70  din=1 detected=1
